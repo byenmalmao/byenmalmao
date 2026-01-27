@@ -1,7 +1,6 @@
-<h3 align="center">🚀 Desarrollador Full Stack Apasionado</h3>
 
 ## 👨‍💻 Acerca de Mí
-Desarrollador entusiasta con experiencia en tecnologías modernas. Me encanta crear soluciones innovadoras y compartir conocimiento con la comunidad.
+Desarrollador entusiasta con experiencia en tecnologías modernas.
 
 ---
 
